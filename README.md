@@ -38,5 +38,5 @@ I already did an exchange and got to know the cultures of London 🇬🇧 and Pa
 
 ## My Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daiene&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daiene&theme=radical&hide=contribs,prs)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daiene&layout=compact&langs_count=7&theme=radical"/>
