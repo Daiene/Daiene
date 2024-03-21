@@ -1,14 +1,14 @@
-### 👋 Hello World, I'm Daiene! 🌎 
+### 👋 Hello World, I'm Daiene! 🌎
 
 <a href="https://www.linkedin.com/in/daiene-batagioti/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://web.whatsapp.com/send?phone=5512982221049">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 <a href="mailto:daiene.batagioti@hotmail.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
 
-Hi, I'm Daiene, but you can call me <strong>Dai</strong>. I'm a Software Developer from Brazil. 24 years old and 1.5 years coding. Lover of sports 💪 and travel ✈️.
+Hi, I'm Daiene, but you can call me <strong>Dai</strong>. I'm a Software Developer from Brazil. 24 years old and 1.5 years coding. Lover of sports 🏋️‍♀️ and travel ✈️.
 A person with good energy 🌱, smiling ☺️, friendly ✌️ and studious 📚. Mother of a beautiful 3 year old baby 👶.
 I already did an exchange and got to know the cultures of London 🇬🇧 and Paris 🇫🇷.
 
-## Technology Stack
+## Technology Stack 🚀
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,13 +30,13 @@ I already did an exchange and got to know the cultures of London 🇬🇧 and Pa
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-## Operational systems
+## Operational systems 💻
 
 ![OpenBSD](https://img.shields.io/badge/-OpenBSD-%23FCC771?style=for-the-badge&logo=openbsd&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## My Github Stats
+## My Github Stats ⚙️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daiene&theme=radical&hide=contribs,prs)
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daiene&layout=compact&langs_count=7&theme=radical"/>
