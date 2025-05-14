@@ -4,9 +4,7 @@
 <a href="https://web.whatsapp.com/send?phone=5512982221049">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 <a href="mailto:daiene.batagioti@hotmail.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
 
-Hi, I'm Daiene, but you can call me <strong>Dai</strong>. I'm a Software Developer from Brazil. 25 years old and 1.7 years coding. Lover of sports 🏋️‍♀️ and travel ✈️.
-A person with good energy 🌱, smiling ☺️, friendly ✌️ and studious 📚. Mother of a beautiful 3 year old baby 👶.
-I already did an exchange and got to know the cultures of London 🇬🇧 and Paris 🇫🇷.
+Hi, I'm Daiene, but you can call me <strong>Dai</strong>. I'm a Software Developer from Brazil. 
 
 ## Technology Stack 🚀
 
